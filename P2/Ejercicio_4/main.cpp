@@ -6,7 +6,7 @@
 #include<conio.h>
 
 /*
-*	Ejercicio : Hacer un programa en C que imprima todos los números naturales que hay
+*	Ejercicio 4: Hacer un programa en C que imprima todos los números naturales que hay
 *	desde la unidad hasta un número que introducimos por teclado.
 */
 int numero,n;
